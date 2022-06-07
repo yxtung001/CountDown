@@ -56,13 +56,13 @@ button{
 }
 
 .link{
-    position: absolute;
-    bottom:10px;
+    position: relative;
+    top:25rem;
 }
 .WordHuman{
     position: relative;
     top:20rem;
-    left:10rem;
+    left:20rem;
     font-size: 3rem;
     font-style: italic;
     word-spacing: 10px;
